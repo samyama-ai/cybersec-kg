@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+raw/
+build/
+*.sgsnap
+*.sgresults
+*.intoto.jsonl
+*.sigstore.json
+.env
+.DS_Store

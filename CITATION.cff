@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "cybersec-kg: Unified Open Cybersecurity Supply-Chain, Threat, and Defense Knowledge Graph"
+message: "If you use cybersec-kg in your research or engineering systems, please cite it using this metadata."
+type: dataset
+authors:
+  - family-names: Ganapathi
+    given-names: Tharuni
+  - family-names: Mandarapu
+    given-names: Madhulatha
+  - family-names: Kunkunuru
+    given-names: Sandeep
+repository-code: "https://github.com/samyama-ai/cybersec-kg"
+license: Apache-2.0
+keywords:
+  - cybersecurity
+  - knowledge-graph
+  - software-supply-chain
+  - mitre-attack
+  - d3fend
+  - cve
+  - osv
+  - graph-database
